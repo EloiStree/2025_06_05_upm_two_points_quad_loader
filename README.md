@@ -1,3 +1,5 @@
+Version Godot: https://github.com/EloiStree/2025_06_05_gdp_two_points_quad_loader
+
 # 2025_06_05_TwoPointsQuadLoader
 Allow to load content based on two given point from a quad
 
