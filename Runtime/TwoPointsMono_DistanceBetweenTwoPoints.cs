@@ -1,6 +1,10 @@
 using UnityEngine;
 
 namespace Eloi.TwoPoints {
+    /// <summary>
+    /// I am a class that store the position of two transform in the scene.
+    /// It is use to find what to load based on distance and where to load from the two points
+    /// </summary>
     [ExecuteInEditMode]
     public class TwoPointsMono_DistanceBetweenTwoPoints : MonoBehaviour {
         public Transform m_pointA;
